@@ -1,4 +1,4 @@
-# Programacion_web
+# Inventario para el bravo
 
 Realizar una aplicación web para guardar el inventario de una tienda de computadora.
 
