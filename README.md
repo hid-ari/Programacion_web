@@ -4,7 +4,7 @@ Realizar una aplicación web para guardar el inventario de una tienda de computa
 
 Debe realizar un CRUD donde se manejen todas las piezas de computadora:
 
-- Debe manejar los datos:
+Debe manejar los datos:
 
 - Código
 - Nombre del articulo
